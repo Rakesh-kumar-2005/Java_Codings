@@ -1,5 +1,5 @@
 package Linked_List;
-public class Insertion_of_two_lists {
+public class Intersection_of_two_lists {
     private static class Node{
         int val;
         Node next;
